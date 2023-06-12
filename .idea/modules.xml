@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/UChatbot.iml" filepath="$PROJECT_DIR$/.idea/UChatbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uchatbot-api-application/uchatbot-api-application.iml" filepath="$PROJECT_DIR$/uchatbot-api-application/uchatbot-api-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uchatbot-api-common/uchatbot-api-common.iml" filepath="$PROJECT_DIR$/uchatbot-api-common/uchatbot-api-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uchatbot-api-domain/uchatbot-api-domain.iml" filepath="$PROJECT_DIR$/uchatbot-api-domain/uchatbot-api-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uchatbot-api-interfaces/uchatbot-api-interfaces.iml" filepath="$PROJECT_DIR$/uchatbot-api-interfaces/uchatbot-api-interfaces.iml" />
+    </modules>
+  </component>
+</project>
